@@ -1,4 +1,0 @@
-on load:
-	make console execute command "/gamerule announceAdvancements false"
-	make console execute command "/difficulty hard"
-	
